@@ -1,0 +1,6 @@
+framework module Pods_GitMVP {
+  umbrella header "Pods-GitMVP-umbrella.h"
+
+  export *
+  module * { export * }
+}
